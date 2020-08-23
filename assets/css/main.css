@@ -1553,7 +1553,7 @@ button,
   input[type="button"].small,
   button.small,
   .button.small {
-    font-size: 0.6em; }
+    font-size: 0.5em; }
   input[type="submit"].large,
   input[type="reset"].large,
   input[type="button"].large,
